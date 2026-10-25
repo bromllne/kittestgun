@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "kittestgun",
+	"version": "${version}",
+	"name": "KitTestGun",
+	"description": "я хочу пистоль",
+	"authors": [
+		"три дебила это сила"
+	],
+	"contact": {
+		"homepage": "большиедойки.ком",
+		"sources": "какой fabric какие details"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/kittestgun/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kitteam.kittest.KitTestGun"
+		],
+		"fabric-datagen": [
+			"net.kitteam.kittest.KitTestGunDataGenerator"
+		],
+		"client": [
+			"net.kitteam.kittest.KitTestGunClient"
+		]
+	},
+	"mixins": [
+		"kittestgun.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
