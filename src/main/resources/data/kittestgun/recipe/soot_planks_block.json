@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "kittestgun:soot_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "kittestgun:soot_planks_block"
+  }
+}

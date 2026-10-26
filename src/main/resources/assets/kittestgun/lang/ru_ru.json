@@ -1,5 +1,10 @@
 {
   "item.kittestgun.bullet": "Патрон",
   "item.kittestgun.clip": "Клипса",
-  "block.kittestgun.soot_block": "Пепельный блок"
+  "block.kittestgun.soot_block": "Пепельный блок",
+  "itemgroup.kittestgun.kit_items": "Китёж",
+  "itemgroup.kittestgun.kit_in_work": "Китёж черновик",
+  "block.kittestgun.gigatv": "гига телек",
+  "block.kittestgun.soot_planks_block": "Пепельные доски",
+  "item.kittestgun.spanner": "Гаечный ключ"
 }

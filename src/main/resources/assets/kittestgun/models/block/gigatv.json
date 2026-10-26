@@ -1,0 +1,25 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "ambientocclusion": false,
+  "textures": {
+    "0": "kittestgun:block/gigatv_front",
+    "1": "kittestgun:block/gigatv_side",
+    "2": "kittestgun:block/gigatv_end",
+    "particle": "block/sot_down"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": {"uv": [16, 0, 0, 16], "texture": "#1"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+        "down": {"uv": [1, 0, 14.66667, 14.66667], "texture": "#2"}
+      }
+    }
+  ]
+}

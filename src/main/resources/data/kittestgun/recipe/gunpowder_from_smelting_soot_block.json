@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 20,
+  "experience": 0.5,
+  "group": "kit",
+  "ingredient": {
+    "item": "kittestgun:soot_block"
+  },
+  "result": {
+    "id": "minecraft:gunpowder"
+  }
+}

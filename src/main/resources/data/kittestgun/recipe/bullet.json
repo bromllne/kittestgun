@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "key": {
+    "#": {
+      "item": "kittestgun:soot_block"
+    },
+    "$": {
+      "item": "kittestgun:bullet"
+    }
+  },
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "result": {
+    "item": "kittestgun:bullet",
+    "count": 6
+  }
+}

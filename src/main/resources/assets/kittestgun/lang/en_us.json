@@ -1,5 +1,10 @@
 {
   "item.kittestgun.bullet": "Bullet",
   "item.kittestgun.clip": "Moon-clip",
-  "block.kittestgun.soot_block": "Soot Block"
+  "block.kittestgun.soot_block": "Soot Block",
+  "itemgroup.kittestgun.kit_items": "Kitezh",
+  "itemgroup.kittestgun.kit_in_work": "Kitezh In Work",
+  "block.kittestgun.gigatv": "stupidly big fucking tv set shit man wtf is ts dawg",
+  "block.kittestgun.soot_planks_block": "Soot Planks",
+  "item.kittestgun.spanner": "Spanner"
 }

@@ -3,6 +3,7 @@ package net.kitteam.kittest;
 import net.fabricmc.api.ModInitializer;
 
 import net.kitteam.kittest.block.ModBlocks;
+import net.kitteam.kittest.item.ModItemGroups;
 import net.kitteam.kittest.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,6 +14,7 @@ public class KitTestGun implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModIems();
 		ModBlocks.registerModBlocks();
 	}

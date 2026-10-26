@@ -1,5 +1,10 @@
 {
   "item.kittestgun.bullet": "Патронъ",
   "item.kittestgun.clip": "Обойма нагана",
-  "block.kittestgun.soot_block": "Пепелъ"
+  "block.kittestgun.soot_block": "Пепелъ",
+  "itemgroup.kittestgun.kit_items": "Китёжъ",
+  "itemgroup.kittestgun.kit_in_work": "Китёжъ (черновикъ)",
+  "block.kittestgun.gigatv": "это что ещё за дiявольская чертовщiна?????",
+  "block.kittestgun.soot_planks_block": "Пепельныя доскi",
+  "item.kittestgun.spanner": "Гаечный ключъ"
 }

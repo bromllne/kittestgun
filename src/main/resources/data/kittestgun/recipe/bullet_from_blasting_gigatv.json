@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 20,
+  "experience": 15.0,
+  "group": "kit",
+  "ingredient": {
+    "item": "kittestgun:gigatv"
+  },
+  "result": {
+    "id": "kittestgun:bullet",
+    "count": 6
+  }
+}
